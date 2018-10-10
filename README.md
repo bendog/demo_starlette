@@ -1,4 +1,8 @@
-# Starlette + API Star + uvicorn Demo site
+# Starlette + APIStar + uvicorn Demo site
+
+* APIStar: <https://github.com/encode/apistar>
+* Starlette: <https://github.com/encode/starlette>
+* Uvicorn: <https://github.com/encode/uvicorn>
 
 With API Star 0.6 the server component has been split off, so now we
 need to install more packages to get the same functionality.
